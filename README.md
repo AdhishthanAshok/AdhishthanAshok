@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdhishthanAshok/Projects](https://github.com/AdhishthanAshok/Projects)
+- 👨‍💻 All of my projects are available at [My Projects](https://github.com/AdhishthanAshok/Projects)
 
 - 💬 Ask me about **Javascript , ReactJS , Node.js , C++**
 
 - 📫 How to reach me **adhishthanashok@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JP_1kR8EAdnEqYwIsGm0_eP7QfypjbU5/view?usp=sharing](https://drive.google.com/file/d/1JP_1kR8EAdnEqYwIsGm0_eP7QfypjbU5/view?usp=sharing)
+- 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/1JP_1kR8EAdnEqYwIsGm0_eP7QfypjbU5/view?usp=sharing)
 
 - ⚡ Fun fact **I think Chess is the most interesting Game.**
 
