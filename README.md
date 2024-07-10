@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 👨‍💻 All of my projects are available at [My Projects](https://adhishthan-ashok.vercel.app)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://adhishthan-ashok.vercel.app)
 
 - 💬 Ask me about **Javascript , ReactJS , Node.js , C++**
 
