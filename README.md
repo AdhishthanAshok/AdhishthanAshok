@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **adhishthanashok@gmail.com**
 
-- 📄 Know about my experiences -> [My Resume](https://drive.google.com/file/d/1SJb-1F-YIsJRk4XUiU1Vir_QpIUP9Jvp/view?usp=sharing)
+- 📄 Know about my experiences -> [My Resume](https://docs.google.com/document/d/1KXQMabesLjVgEpmhbwienWpGnDYBWu1R-sZTsfKWXm0/edit?usp=sharing)
 
 - ⚡ Fun fact **I think Chess is the most interesting Game.**
 
