@@ -6,7 +6,7 @@
 
 - 🔭 Last project I completed :  [GlamGait : Footwear Shopping Site](https://glamgait-shopping.vercel.app/)
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Next.js and DevOps**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
