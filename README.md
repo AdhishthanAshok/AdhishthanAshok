@@ -2,7 +2,9 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif" style="width:300px">
 
-- 🔭 I’m currently working on [GlamGait : Footwear Shopping Site](https://glamgait-shopping.vercel.app/)
+- 🔭 I’m currently working on -> Vroom : Online Meeting Room
+- 
+- 🔭 Last project I completed :  [GlamGait : Footwear Shopping Site](https://glamgait-shopping.vercel.app/)
 
 - 🌱 I’m currently learning **DevOps**
 
