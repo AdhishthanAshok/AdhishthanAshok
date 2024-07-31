@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://adhishthan-ashok.vercel.app)
 
-- 💬 Ask me about **Javascript , ReactJS , Node.js , C++**
+- 💬 Ask me about **C++ , DSA , Web , Stranger Things**
 
 - 📫 How to reach me **adhishthanashok@gmail.com**
 
