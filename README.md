@@ -2,17 +2,17 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif" style="width:300px">
 
-- 🔭 I’m currently working on -> [Vroom : Online Meeting Room](https://github.com/AdhishthanAshok/Vroom-Call)
+- 🔭 I’m currently working on -> Amazon Web Services (AWS)
 
-- 🔭 Last project I completed :  [GlamGait : Footwear Shopping Site](https://glamgait-shopping.vercel.app/)
+- 🔭 Last project I completed : [Vroom : Online Meeting Room](https://github.com/AdhishthanAshok/Vroom-Call)
 
-- 🌱 I’m currently learning **Next.js and DevOps**
+- 🌱 I’m currently learning **AWS and Next.Js**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://adhishthan-ashok.vercel.app)
 
-- 💬 Ask me about **DSA , WEB Tech and Stranger Things**
+- 💬 Ask me about **New Technology, Games and Stranger Things**
 
 - 📫 How to reach me **adhishthanashok@gmail.com**
 
