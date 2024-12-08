@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif" style="width:300px">
 
-- 🔭 I’m currently working on -> Amazon Web Services (AWS)
+- 🔭 Past Internships at : EduCase India (Back-End Developer) ,FitnessBell India (Web Developer and Designer)
 
 - 🔭 Last project I completed : [Vroom : Online Meeting Room](https://vroom-calling.vercel.app/)
 
