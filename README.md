@@ -36,6 +36,6 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adhishthanashok&show_icons=true&locale=en&layout=compact" alt="adhishthanashok" />
-    <img src="https://leetcode.card.workers.dev/adhishthanashok?theme=dark&font=source_code_pro&extension=null" alt="adhishthanashok" />
+    <img src="https://leetcard.jacoblin.cool/adhishthanashok?theme=dark&font=baloo&ext=null" alt="adhishthanashok" />
 </p>
 
