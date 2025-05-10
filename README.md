@@ -2,6 +2,8 @@
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif" style="width:300px">
 
+- 🔭 Currently working as a **Full Stack Developer** at [TecoreLabs](https://tecorelabs.com)
+  
 - 🔭 Past Internships at : EduCase India (Back-End Developer) ,FitnessBell India (Web Developer and Designer)
 
 - 🔭 Last project I completed : [Decentralized File Sharing System](https://github.com/AdhishthanAshok/Blockchain_Based_Secure_File_Sharing_System)
