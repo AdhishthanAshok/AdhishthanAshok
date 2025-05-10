@@ -6,7 +6,7 @@
 
 - 🔭 Last project I completed : [Decentralized File Sharing System](https://github.com/AdhishthanAshok/Blockchain_Based_Secure_File_Sharing_System)
 
-- 🌱 I’m currently learning **AWS and Next.Js**
+- 🌱 I’m currently learning **Python - AI Agents**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
