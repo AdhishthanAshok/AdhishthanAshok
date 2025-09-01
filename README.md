@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adhishthan Ashok</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="" src="https://c.tenor.com/2uyENRmiUt0AAAAC/tenor.gif" style="width:300px">
 
-- 🔭 Currently working as a **Full Stack Developer** at [TecoreLabs](https://tecorelabs.com)
+- 🔭 Currently working as a **Software Engineer** at [TecoreLabs](https://tecorelabs.com)
   
 - 🔭 Past Internships at : EduCase India (Back-End Developer) ,FitnessBell India (Web Developer and Designer)
 
