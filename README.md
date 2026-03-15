@@ -4,7 +4,6 @@
 
 - 🔭 Currently working as a **Software Engineer** at [RavenCast Labs](https://ravencast.io)
 - 🔭 Past working experience at [TecoreLabs](https://tecorelabs.com) as **Software Engineer**
-- 🔭 Past Internships at : EduCase India (Back-End Developer) ,FitnessBell India (Web Developer and Designer)
 
 - 🔭 Last project I completed : [Decentralized File Sharing System](https://github.com/AdhishthanAshok/Blockchain_Based_Secure_File_Sharing_System)
 
